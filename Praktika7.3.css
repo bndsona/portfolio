@@ -1,0 +1,228 @@
+.div1{
+	width: 100%;
+	height: 3450px;
+	background-image: url(https://startbootstrap.github.io/startbootstrap-business-casual/assets/img/bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	line-height: 20px;
+}
+.p1{
+	font-size: 38px;
+	color: 	chocolate;
+	font-weight: bold;
+	margin-left: 400px;
+	padding-top: 80px;
+	padding-bottom: 0px;
+}
+.h11{
+	font-size: 60px;
+	color: white;
+	letter-spacing: 5px;
+	word-spacing: 6px;
+	margin-left: 450px;
+
+}
+.div2{
+	background-color: #2F170F;
+	width: 100%;
+	height: 60px;
+	float: left;
+	margin-top: 40px;
+	padding-top: 15px;
+}
+.div2 li{
+	display: inline-block;
+	margin-left: 70px;
+
+}
+.div2 a{
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+.a11{
+	margin-left: 400px;
+}
+.div2 li:hover a{
+	color:gray;
+}
+.div3{ 
+
+	height: 1205px;
+	width: 100%;
+
+}
+.div3 img{
+     margin-top: 340px ;
+     margin-left: 400px ;
+     float: left;
+     position: absolute;
+     display: block;
+     position: absolute;
+    
+}
+.div4{
+	width: 35%;
+	height: 200px;
+	background-color: wheat;
+	margin-left: 930px ;
+	margin-top: 80px ;
+	float: left;
+	position: relative;
+	border-radius: 10px;
+}
+.p12{
+	font-weight: bolder;
+	font-size: 18px;
+	margin-left: 50px ;
+	
+	margin-top: 40px;
+}
+.p13{
+	font-size: 40px;
+	margin-left: 50px ;
+	color: gray;
+ 
+}
+.div5{
+	width: 48%;
+	height: 205px;
+	background-color: wheat;
+	border-radius: 10px;
+	margin-top: 600px ;
+	float: left;
+	position: relative;
+	margin-left: 100px;
+	padding-right: 30px ;
+	padding-left: 30px;
+}
+.div5 p{
+     font-size: 19px;
+     margin-top: 70px;
+     
+}
+.div6{
+	
+	height: 980px;
+	width: 100%;
+
+
+}
+.div6 img{
+     margin-top: 220px ;
+     margin-left: 400px ;
+     float: left;
+     position: absolute;
+     display: block;
+     position: absolute;
+    
+}
+.div7{
+	width: 35%;
+	height: 200px;
+	background-color: wheat;
+	margin-left: 100px ;
+	margin-top: 70px ;
+	float: left;
+	position: relative;
+	border-radius: 10px;
+}
+.p14{
+	font-weight: bolder;
+	font-size: 18px;
+	margin-left: 50px ;
+	
+	margin-top: 40px;
+}
+.p15{
+	font-size: 40px;
+	margin-left: 50px ;
+	color: gray;
+ 
+}
+.div8{
+	width: 48%;
+	height: 205px;
+	background-color: wheat;
+	border-radius: 10px;
+	margin-top: 750px ;
+	float: left;
+	position: relative;
+	margin-left: 10px;
+	padding-right: 30px ;
+	padding-left: 30px;
+}
+.div8 p{
+     font-size: 19px;
+     margin-top: 70px;
+     
+}
+.div9{ 
+
+	height: 851px;
+	width: 100%;
+}
+.div9 img{
+     margin-top: 210px ;
+     margin-left: 400px ;
+     float: left;
+     position: absolute;
+     display: block;
+     position: absolute;
+    
+}
+.div10{
+	width: 48%;
+	height: 200px;
+	background-color: wheat;
+	margin-left: 730px ;
+	margin-top: 60px ;
+	float: left;
+	position: relative;
+	border-radius: 10px;
+}
+.p16{
+	font-weight: bolder;
+	font-size: 18px;
+	margin-left: 50px ;
+	
+	margin-top: 40px;
+}
+.p17{
+	font-size: 40px;
+	margin-left: 50px ;
+	color: gray;
+ 
+}
+.div11{
+	width: 48%;
+	height: 205px;
+	background-color: wheat;
+	border-radius: 10px;
+	margin-top: 370px ;
+	float: left;
+	position: relative;
+	margin-left: 100px;
+	padding-right: 30px ;
+	padding-left: 30px;
+}
+.div11 p{
+     font-size: 19px;
+     margin-top: 70px;
+}
+.div12{
+	width: 100%;
+	height: 150px;
+	background-color:#2F170F;
+	opacity: 0.9;
+	float: left;
+	margin-top: 70px;
+}
+.div12 p{
+     
+     color: white;
+     float: left;
+     margin-top: 70px;
+     margin-left: 660px;
+}
+

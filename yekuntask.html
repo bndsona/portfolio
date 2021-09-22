@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Imtahan</title>
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<link rel="stylesheet" type="text/css" href="yekuntask.css">
+	<script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+</head>
+<body>
+	<div class="giris">
+		<h3>Imtahana başlamaq üçün istifadəçi adınızı qeyd edin...</h3>
+		<input type="text" name="" placeholder="Adınız" id="name" >
+		<input type="text" name="" placeholder="Soyadınız" id="surname">
+		<br>
+		<button class="enter" id="daxilol" onclick="suallar()">Daxil ol</button>
+	</div>
+	<div class="second">
+		<div class="name">
+			<h3 class="ad"></h3>
+			<h3 class="soyad"></h3>
+		</div>
+		<div class="questions">
+			<div id="number">
+				<button id="sual1">1</button>
+				<button>2</button>
+				<button>3</button>
+				<button>4</button>
+				<button>5</button>
+				<button>6</button>
+				<button>7</button>
+				<button>8</button>
+				<button>9</button>
+				<button>10</button>
+			</div>
+			<div class="question">
+				<h2 id="sual"></h2>
+			</div>
+			<div class="choose">
+				<button class="variant1" id="A" ></button>
+				<button class="variant2" id="B"></button>
+				<button class="variant3" id="C"></button>
+			</div>
+			<div class="ending">
+				<button id="novb">Növbəti</button>
+				<button id="evvel">Evvelki</button>
+				<button id="bitir">Sonlandır</button>
+			</div>
+		</div>
+	</div>
+	<div class="end">
+		<h1 id="dogru"></h1>
+		<h1 id="sehv"></h1>
+	</div>
+<script type="text/javascript" src="yekuntask.js"></script>
+</body>
+</html>

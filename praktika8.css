@@ -1,0 +1,423 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.div1{
+	width: 100%;
+	height: 780px;
+}
+.div2{
+	width: 100%;
+	height: 120px;
+	padding-top: 40px;
+}
+.div2 a{
+	text-decoration: none;
+}
+.div2 li{
+	font-size: 20px;
+	margin-left: 20px;
+	list-style-type: none;
+	display: inline-block;
+}
+.a1{
+	color: blue;
+	font-size: 22px;
+	float: left;
+	margin-left: 70px ;
+}
+.a2{
+	color: gray;
+	font-size: 19px ;
+	margin-left: 40px;
+}
+.a3{
+	color: gray;
+	font-size: 20px ;
+}
+.div2 li:hover a{
+	color: black;
+}
+.a4{
+	border-radius: 5px;
+	color: white;
+	padding: 18px 22px;
+	background-color: blue;
+	margin-left: 9px;
+}
+.a4:hover{
+	background-color: darkblue;
+}
+.div1 img{
+	width: 45%;
+	height: 500px;
+	margin-left: 120px;
+	margin-top: 90px;
+	
+}
+.div3{
+	
+	width: 40%;
+	height: 400px;
+
+	margin-top: 120px;
+	margin-left: 100px;
+}
+.div4{
+	width: 100%;
+	display: flex;
+}
+.div3 h1{
+	font-size: 40px;
+	font-style: italic;
+}
+.p1{
+	font-size: 20px;
+	color: gray;
+}
+.a5{
+	padding: 20px 37px;
+	background-color: blue;
+	color: white ;
+}
+.a6{
+	padding: 20px 37px;
+	color: black;
+	background-color: 	lightblue;
+	margin-left: 50px;
+
+}
+.div3 a{
+	
+	float: left;
+	margin-top: 40px;
+	text-decoration: none;
+	border-radius: 7px;
+}
+.a5:hover{
+  background-color: darkblue;
+}
+.div5{
+	width: 100%;
+	height: 300px;
+	
+	background-color: #daf2f8;
+}
+.div6{
+	padding-top: 3px;
+	width: 100%;
+	height: 220px;
+
+}
+.div7{
+	width: 6%;
+	height: 30px;
+	border-radius: 20px;
+	color: blue;
+	background-color: lightblue;
+	padding-bottom: 13px;
+	padding-left: 12px;
+	margin-left: 690px ;
+	margin-top: 50px ;
+}
+.p3{
+	color: gray;
+	font-size: 18px;
+	margin-top: 20px;
+	text-align: center;
+
+}
+.div6 h2{
+	margin-top: 30px;
+	margin-left: 675px;
+
+}
+.p2{
+	padding-top: 14px;
+	padding-left: 8px;
+}
+.div8{
+	width: 100%;
+	height: 2100px;
+	background-color: #f2f6fc;;
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 90px ;
+}
+.div9{
+	width: 25%;
+	height: 350px;
+	margin-left: 85px;
+	margin-top: 10px;
+	float: left;
+}
+.div9 img{
+	width: 100%;
+	height: 300px;
+  margin-top: 30px;
+}
+.div9 img:hover{
+   margin-top: 20px;
+   transition: 1s;
+   box-shadow: 3px 3px silver;
+}
+.div9 h3{
+	margin-left: 100px;
+}
+
+.div11{
+	padding-top: 3px;
+	width: 100%;
+	height: 220px;
+	margin-top: 100px;
+	float: left;
+
+}
+.div11 h2{
+	margin-top: 30px;
+	margin-left: 675px;
+}
+.div10{
+	width: 100%;
+	height: 350px;
+}
+.div12{
+	width: 6%;
+	height: 30px;
+	border-radius: 20px;
+	color: blue;
+	background-color: lightblue;
+	/*padding-top: 0.3px;*/
+	padding-bottom: 13px;
+	padding-left: 12px;
+	margin-left: 690px ;
+}
+.div14{
+	width: 25%;
+	height: 290px;
+	margin-left: 90px;
+}
+.div14 li{
+	display: flex;
+	padding-right: 5px;
+	width: 96%;
+	background-color: white;
+  justify-content: space-between;
+	list-style: none;
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	padding-top:12px;
+	padding-left: 9px;
+	padding-bottom:12px;
+}
+.div14 a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+.div14 i{
+	font-size: 20px;
+	color: gray;
+}
+.li1{
+	margin-top: 25px;
+}
+.div13{
+	height: 500px;
+	display: flex;
+	flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+.div15{
+	width: 25%;
+	height: 245px;
+	margin-left: 90px;
+}
+.div15 li{
+	display: flex;
+	padding-right: 5px;
+	width: 96%;
+	background-color: white;
+  justify-content: space-between;
+	list-style: none;
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	padding-top:12px;
+	padding-left: 9px;
+	padding-bottom:12px;
+
+}
+.div15 a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+.div15 i{
+	font-size: 20px;
+	color: gray;
+}
+.div16{
+	width: 25%;
+	height: 147px;
+	margin-left: 90px;
+	margin-top: 28px;
+}
+.div16 li{
+	display: flex;
+	padding-right: 5px;
+	width: 96%;
+	background-color: white;
+  justify-content: space-between;
+	list-style: none;
+	border: 1px solid rgba(0, 0, 0, 0.125);
+	padding-top:12px;
+	padding-left: 9px;
+	padding-bottom:12px;
+
+}
+.div16 a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+.div16 i{
+	font-size: 20px;
+	color: gray;
+}
+.div17{
+	width: 25%;
+	height: 196px;
+	margin-left: 90px;
+}
+.div17 li{
+	display: flex;
+	padding-right: 5px;
+	width: 96%;
+	background-color: white;
+  justify-content: space-between;
+	list-style: none;
+	background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+	padding-top:12px;
+	padding-left: 9px;
+	padding-bottom:12px;
+
+}
+.div17 a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
+.div17 i{
+	font-size: 20px;
+	color: gray;
+}
+.div13 ul li:hover{
+	background-color:#daefed;
+}
+.div18{
+	padding-top: 3px;
+	width: 100%;
+	height: 290px;
+	margin-top: 10px;
+	float: left;
+	background-color: #daf2f8;;
+}
+.div18 h2{
+	margin-top: 30px;
+	margin-left: 645px;
+}
+.div19{
+	width: 8%;
+	height: 30px;
+	border-radius: 20px;
+	color: blue;
+	background-color: lightblue;
+	/*padding-top: 0.3px;*/
+	padding-bottom: 13px;
+	padding-left: 14px;
+	margin-left: 690px ;
+	margin-top: 60px ;
+}
+.div20{
+	width: 100%;
+	height: 1000px;
+	background-color: #f2f6fc;;
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 70px;
+}
+.div21{
+	width: 25%;
+	height: 350px;
+	margin-left: 85px;
+	margin-top: 10px;
+	float: left;
+}
+.div21 img{
+	width: 100%;
+	height: 300px;
+  margin-top: 30px;
+}
+.div21 img:hover{
+   margin-top: 20px;
+   transition: 1s;
+   box-shadow: 3px 3px silver;
+}
+.div21 h3{
+	margin-left: 100px;
+}
+.div22{
+	display: flex;
+	flex-wrap: wrap;
+}
+.div24{
+	width: 100%;
+	display: block;
+}
+.h22{
+	font-size: 32px;
+	text-align: center;
+	margin-top: 70px;
+}
+.p22{
+	font-size: 22px;
+	color: gray;
+	margin-top: 13px;
+		text-align: center;
+}
+.div23{
+	width: 26%;
+	height: 210px;
+	margin-top: 80px;
+	margin-left: 90px;
+}
+.div23 h1{
+	font-size: 80px;
+	font-weight: bold;
+	color: gray;
+	text-align: center;
+}
+.div23 p{
+	font-size: 18px;
+	margin-top: 10px;
+	text-align: center;
+}
+.div23 h3{
+	text-align: center;
+}
+.a0{
+	padding: 15px 28px;
+	background-color: blue;
+	color: white ;
+	margin-top: 50px;
+	text-decoration: none;
+	border-radius: 7px;
+	font-size: 19px;
+	margin-left: 680px;
+	margin-bottom: 15px;
+}
+.a0:hover{
+  background-color: darkblue;
+}
+
+
+
